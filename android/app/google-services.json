@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "9671553858",
+    "project_id": "ms-bazaar",
+    "storage_bucket": "ms-bazaar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9671553858:android:3b066b2c1e6f0fb778cedb",
+        "android_client_info": {
+          "package_name": "com.mskhan.msbazaar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLDV1bvAtPhJrmNPfLB32NcVz_b6gf01w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
